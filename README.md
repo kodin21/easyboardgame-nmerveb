@@ -1,3 +1,6 @@
+[Live Preview](https://easyboardgame-nmerveb.netlify.app/)
+
+
 ## HAFTA 4 - ÖDEV
 
 # React mix example
